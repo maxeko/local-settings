@@ -1,0 +1,26 @@
+{
+  "name": "local-settings",
+  "version": "1.0.0",
+  "description": "Local settings uploader",
+  "main": "local-settings.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxeko/local-settings.git"
+  },
+  "keywords": [
+    "settings",
+    "nodejs"
+  ],
+  "author": "Maxim E. Korshunov <korshunov.m.e@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxeko/local-settings/issues"
+  },
+  "homepage": "https://github.com/maxeko/local-settings#readme",
+  "dependencies": {
+    "system-info": "git://github.com/maxeko/system-info.git"
+  }
+}
